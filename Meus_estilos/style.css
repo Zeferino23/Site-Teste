@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(80, 130, 173);
+}
+h2{
+color:rgb(80, 130, 173);
+font-size:30px;
+}
+p{
+color: white;
+}
+div{
+width:500px;
+background-color: rgb(143, 171, 172);
+margin: auto;
+height:500px;
+padding: 17px;
+font-weight: bold;
+box-shadow:1px 2px 3px black;
+}
